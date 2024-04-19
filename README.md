@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ⚡  Teaching Assistant for Artificial Intelligence course at Rutgers
 
-🌐 Check out my projects and let's connect on LinkedIn!
+🌐 Check out my projects and let's connect on [LinkedIn](https://www.linkedin.com/in/lvdpsingh)!
