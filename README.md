@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 Computer Science Graduate Student at Rutgers University
 
-💻 Passionate about Software Engineering, Salesforce Engineering, Cloud and AI/ML
+💻 Passionate about Software Engineering, Salesforce Engineering, Cloud, AI/ML and Full-Stack Development
 
 🌟 Experienced in Software Development at Dell Technologies (3 years) and MongoDB (1 year)
 
