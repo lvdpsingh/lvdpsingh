@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lvdpsingh/lvdpsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋 I am Lovedeep Singh
+
+🎓 Computer Science Graduate Student at Rutgers University
+
+💻 Passionate about Software Engineering, Salesforce Engineering, Cloud and AI/ML
+
+🌟 Experienced in Software Development at Dell Technologies (3 years) and MongoDB (1 year)
+
+🔭 Interned as Web System Engineer (Full-Stack) at Rutgers.
+
+⚡  Teaching Assistant for Artificial Intelligence course at Rutgers
+
+🌐 Check out my projects and let's connect on LinkedIn!
